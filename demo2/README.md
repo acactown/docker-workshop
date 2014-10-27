@@ -17,3 +17,4 @@ Docker workshop - Second Nerd Floripa meetup!
 - [ ] ``docker build --tag="acactown/docker-workshop-demo2:V2" .``
 - [ ] ``docker commit XXX acactown/docker-workshop-demo2:V2"``
 - [ ] ``docker push acactown/docker-workshop-demo2:V2``
+
