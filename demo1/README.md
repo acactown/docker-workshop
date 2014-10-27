@@ -1,6 +1,8 @@
 Docker Workshop - Demo 1
 ========================
 
+Docker workshop - Second Nerd Floripa meetup!
+
 ##Useful commands
 
 - [x] ``https://console.aws.amazon.com/console``
