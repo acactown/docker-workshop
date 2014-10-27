@@ -1,0 +1,23 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Authentication": {
+    "Bucket": "docker-workshop",
+    "Key": "dockercfg"
+  },
+  "Image": {
+    "Name": "acactown/docker-workshop:V2",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "80"
+    }
+  ],
+  "Volumes": [
+    {
+      "HostDirectory": "/tmp",
+      "ContainerDirectory": "/tmp"
+    }
+  ],
+  "Logging": "/var/log/nginx"
+}
