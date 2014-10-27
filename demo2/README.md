@@ -11,9 +11,9 @@ Docker workshop - Second Nerd Floripa meetup!
 
 - [ ] ``mkdir image``
 - [ ] ``cd image``
-- [ ] ``wget httpshttps://raw.githubusercontent.com/acactown/docker-workshop/master/demo2/Dockerfile``
+- [ ] ``wget https://raw.githubusercontent.com/acactown/docker-workshop/master/demo2/Dockerfile``
 
 - [ ] ``docker pull acactown/docker-workshop-demo2``
-- [ ] ``docker build --tag="acactown/docker-workshop-demo2:V1" .``
-- [ ] ``docker commit XXX acactown/docker-workshop-demo2:V1"``
-- [ ] ``docker push acactown/docker-workshop-demo2:V1``
+- [ ] ``docker build --tag="acactown/docker-workshop-demo2:V2" .``
+- [ ] ``docker commit XXX acactown/docker-workshop-demo2:V2"``
+- [ ] ``docker push acactown/docker-workshop-demo2:V2``
