@@ -5,7 +5,7 @@
     "Key": "dockercfg"
   },
   "Image": {
-    "Name": "acactown/docker-workshop:V2",
+    "Name": "acactown/docker-workshop:latest",
     "Update": "true"
   },
   "Ports": [
